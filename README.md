@@ -2,7 +2,6 @@
 
 > Proiect academic realizat în cadrul cursului **Statistică Aplicată și Data Science**  
 > Facultatea de Cibernetică, Statistică și Informatică Economică — ASE București  
-> Autori: **Danielov Matei**, **Nițu Vlad-Cristian**, **Miron Andreea-Paraschiva**, **Constantin Teodor-Vasile**
 
 ---
 
